@@ -1,0 +1,13 @@
+# Standard libraries (these are included with Python and do not need to be listed):
+# os, sys, unittest
+
+# Third-party libraries
+# numpy==1.21.0  # As an example, if you had mentioned using numpy
+# requests==2.25.1  # If you had mentioned using the requests library
+
+# Local modules
+# These are part of your project and don't need to be listed in requirements.txt
+# local_module
+
+# For the sake of this example, no third-party libraries were explicitly used.
+# However, if you were to use any, you'd list them here with their versions.
